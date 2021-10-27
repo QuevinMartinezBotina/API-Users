@@ -1,15 +1,11 @@
 # Consumiendo API de rick and morty
 
-2021-10-26 17:13:39 Tuesday
+2021-10-27 16:57:51 Wednesday
 
 ---
 
-[![Rick and Morty](rickandmorty "Rick and Morty")](https://ibb.co/2PJ56Qy "Rick and Morty")
+**Proyecto de consumo de la API de API Fake, aquí junto a Javascript vamos a consumir la api y mostrar cierta cantidad de información.**
 
 ---
 
-**Proyecto de consumo de la API de rick and morty, aquí junto a Javascript vamos a consumir la api y mostrar cierta cantidad de información.**
-
----
-
-⚡Simepre la mejor energía⚡
+⚡Siempre la mejor energía⚡
